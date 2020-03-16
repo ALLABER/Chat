@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "802470767842",
+    "firebase_url": "https://testchat-198ef.firebaseio.com",
+    "project_id": "testchat-198ef",
+    "storage_bucket": "testchat-198ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802470767842:android:1e090d6044ce5aeb3b82bb",
+        "android_client_info": {
+          "package_name": "allaber.com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802470767842-e9o0675mgpobf57sim1ggvn5ird5f50c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "allaber.com.chat",
+            "certificate_hash": "bcfb5f509d8037ba2ec0d1cf94b816713a3f6fa6"
+          }
+        },
+        {
+          "client_id": "802470767842-f8ihifitsr84m0rn24kscotnndln91uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJGNBLQbUdWfGDNDBm7dHPA8TvzF2qXN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802470767842-f8ihifitsr84m0rn24kscotnndln91uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

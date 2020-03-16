@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chat</string>
+
+    <string name="stringChat">Chat</string>
+    <string name="stringLogin">Login</string>
+    <string name="stringRegistration">Registration</string>
+    <string name="stringForgotPassword">Forgot password?</string>
+    <string name="stringAlreadyAccount">Already account?</string>
+
+    <string name="stringEmail">Email</string>
+    <string name="stringPassword">Password</string>
+    <string name="stringConfirmPassword">Confirm password</string>
+
+    <string name="stringName">Name</string>
+    <string name="stringLastname">Lastname</string>
+</resources>
